@@ -1,0 +1,18 @@
+﻿Сборка начата 26.04.2024 11:14:16.
+     1>Проект "C:\Users\graphics\Documents\Visual Studio 2013\Projects\example610\example610\example610.vcxproj" в узле 2 (целевые объекты Rebuild).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"F:\Users\Andrey\Documents\Visual Studio 2010\Projects\Projects10\example610\example610" /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt example610.cpp stdafx.cpp
+         stdafx.cpp
+         example610.cpp
+     1>c:\users\graphics\documents\visual studio 2013\projects\example610\example610\example610.cpp(19): warning C4305: инициализация: усечение из "double" к "float"
+     1>c:\users\graphics\documents\visual studio 2013\projects\example610\example610\example610.cpp(20): warning C4305: инициализация: усечение из "double" к "float"
+         Создание кода...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\graphics\Documents\Visual Studio 2013\Projects\example610\Debug\example610.exe" /INCREMENTAL /NOLOGO /LIBPATH:"F:\Users\Andrey\Documents\Visual Studio 2010\Projects\Projects10\example610\example610" Opengl32.lib glu32.lib glut32.lib glaux.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\graphics\Documents\Visual Studio 2013\Projects\example610\Debug\example610.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"mainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\graphics\Documents\Visual Studio 2013\Projects\example610\Debug\example610.lib" /MACHINE:X86 Debug\example610.obj
+         Debug\stdafx.obj
+         example610.vcxproj -> C:\Users\graphics\Documents\Visual Studio 2013\Projects\example610\Debug\example610.exe
+     1>Сборка проекта "C:\Users\graphics\Documents\Visual Studio 2013\Projects\example610\example610\example610.vcxproj" завершена (целевые объекты Rebuild).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:00.90
